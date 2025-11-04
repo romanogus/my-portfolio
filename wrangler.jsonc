@@ -1,0 +1,12 @@
+{
+	"name": "my-portfolio",
+	"account_id": "6a9ed5470b06d1e987c1357cdd060c6a",
+	"main": "./.cloudflare/worker.js",
+	"site": {
+		"bucket": "./.cloudflare/public"
+	},
+	"build": {
+		"command": "npm run build"
+	},
+	"compatibility_date": "2021-11-12"
+}
