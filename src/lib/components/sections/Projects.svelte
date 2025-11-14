@@ -1,1 +1,1 @@
-<div>this is projects</div>
+<section id="projects" class="min-h-50 scroll-mt-24">this is projects</section>

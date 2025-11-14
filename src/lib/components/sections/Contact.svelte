@@ -1,1 +1,1 @@
-<div>this is contact</div>
+<section id="contact" class="scroll-mt-24">contact me</section>

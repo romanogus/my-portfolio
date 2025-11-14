@@ -1,2 +1,14 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+*{
+  font-family: Inter, sans-serif
+}
+
+body{
+  @apply bg-slate-900;
+}
+
+h1,h2,h3,h4{
+  font-family: Poppins, sans-serif;
+}
