@@ -3,7 +3,7 @@
 </script>
 
 <aside
-	class="sticky top-24 w-2xl h-full flex flex-col gap-12 items-center mt-24 mx-48 text-white"
+	class="sticky top-24 w-3xl h-full flex flex-col gap-12 items-center mt-24 mx-36 text-white"
 >
 	<header class="flex flex-col gap-8 w-full items-center">
 		<img
@@ -22,13 +22,13 @@
 	<nav>
 		<ul class="flex flex-col gap-4 text-xl">
 			<li>
-				<a href="#about">About</a>
+				<a href="#about" class="hover:text-blue-300">About</a>
 			</li>
 			<li>
-				<a href="#experience">Experience</a>
+				<a href="#experience" class="hover:text-blue-300">Experience</a>
 			</li>
 			<li>
-				<a href="#projects">Projects</a>
+				<a href="#projects" class="hover:text-blue-300">Projects</a>
 			</li>
 		</ul>
 	</nav>
