@@ -1,4 +1,4 @@
-<section id="about" class="scroll-mt-24 pb-12">
+<section id="about" class="scroll-mt-12 pb-12">
   <h1 class="text-2xl font-semibold mb-4">Who am I</h1>
   <div class="pb-4">
     <p class="">

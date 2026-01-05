@@ -6,12 +6,14 @@
 	import Projects from "$lib/components/sections/Projects.svelte";
 </script>
 
-<div class="flex">
-	<SideNav />
-	<main class="text-white mt-24 mr-36 min-h-screen">
-		<Hero />
-		<About />
-		<Projects />
-		<Contact />
-	</main>
+<div class="container mx-auto">
+	<div class="flex">
+		<SideNav />
+		<main class="text-white mt-24 mr-36 min-h-screen">
+			<Hero />
+			<About />
+			<Projects />
+			<Contact />
+		</main>
+	</div>
 </div>

@@ -1,1 +1,1 @@
-<section id="contact" class="scroll-mt-24">contact me</section>
+<section id="contact" class="scroll-mt-12">contact me</section>
