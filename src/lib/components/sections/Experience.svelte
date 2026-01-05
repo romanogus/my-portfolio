@@ -1,5 +1,5 @@
 <section id="experience" class="min-h-lvh scroll-mt-12">
-	<h1 class="text-xl font-semibold">My Experience</h1>
+	<h1 class="text-2xl font-semibold">My Experience</h1>
 	<ul class="mt-9">
 		<li class="mb-9">
 			<div class="pl-4">
