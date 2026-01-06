@@ -27,9 +27,9 @@
 			<li>
 				<a href="#experience" class="hover:text-blue-300">Experience</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a href="#projects" class="hover:text-blue-300">Projects</a>
-			</li>
+			</li> -->
 		</ul>
 	</nav>
 

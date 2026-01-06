@@ -12,8 +12,8 @@
 		<main class="text-white mt-24 mr-36 min-h-screen">
 			<Hero />
 			<About />
-			<Projects />
-			<Contact />
+			<!-- <Projects />
+			<Contact /> -->
 		</main>
 	</div>
 </div>
